@@ -1,0 +1,9 @@
+.app-container {
+  width: 1440px;
+  height: 2900px;
+  margin: 0 auto;
+}
+
+.App {
+  text-align: center;
+}

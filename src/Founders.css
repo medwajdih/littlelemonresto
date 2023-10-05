@@ -1,0 +1,28 @@
+.custom-line-spacing {
+    line-height: 1.5;
+}
+
+
+.container-Founders {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f4ce14
+}
+
+.container-Photo {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-Founderstext {
+    text-align: left;
+    margin-left: 250px;
+}
+
+.place {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,106 @@
+.container-Title {
+    text-align: center;
+    font-size: 22px;
+    color: #495E57
+}
+
+.Pieter-container {
+    width: 200px;
+    height: 300px;
+}
+
+.Simone-container {
+    width: 200px;
+    height: 300px;
+}
+
+.Mary-container {
+    width: 200px;
+    height: 300px;
+}
+
+.Milka-container {
+    width: 200px;
+    height: 300px;
+}
+
+.cardav1-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Center horizontally */
+    text-align: center;
+    /* Center text horizontally */
+}
+
+.cardav2-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Center horizontally */
+    text-align: center;
+    /* Center text horizontally */
+}
+
+.cardav3-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Center horizontally */
+    text-align: center;
+    /* Center text horizontally */
+}
+
+.cardav4-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Center horizontally */
+    text-align: center;
+    /* Center text horizontally */
+}
+
+.ratings {
+    color: gold;
+    font-size: 24px
+}
+
+.Avatar-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1100px;
+    /* Adjust the maximum width as needed */
+    margin: 60px auto 0;
+}
+
+@media (max-width: 767px) {
+    .Avatar-container {
+        flex-direction: column;
+        /* Stack cards vertically */
+        align-items: center;
+        /* Center cards horizontally */
+        margin-bottom: 5px;
+    }
+
+    .cardav1-container {
+        margin-bottom: 0px;
+        /* Add spacing between stacked cards */
+    }
+
+    /* Add space between card containers */
+    .cardav2-container {
+        margin-top: 5px;
+        /* Add space above card2-container */
+    }
+
+    .cardav3-container {
+        margin-top: 5px;
+        /* Add space above card3-container */
+    }
+
+    .cardav4-container {
+        margin-top: 5px;
+        /* Add space above card3-container */
+    }
+
+}

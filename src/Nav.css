@@ -1,0 +1,185 @@
+/* Nav.css */
+.container-Specials {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    /* Adjust the maximum width as needed */
+    margin: 30px auto 0;
+    /* Center horizontally and add 40px top margin */
+}
+
+.container-Btonline {
+    margin-left: 400px;
+    /* Add 400px space between containers */
+    margin-top: 30px;
+    /* Add 40px top margin */
+    /* If you want to style the container-Btonline separately, you can add styles here. */
+}
+
+.Online-button {
+    width: 131px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: #f4ce14;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: background-color 0.3s ease;
+}
+
+.App-nav {
+    background-color: #ffffff;
+    height: 600px;
+}
+
+@media (max-width: 600px) {
+    .container-Specials {
+        margin-top: 0;
+        /* Remove the top margin on small screens */
+    }
+
+    .container-Btonline {
+        margin-top: 20px;
+        /* Add some spacing between the containers on small screens */
+    }
+}
+
+@media (max-width: 600px) {
+
+    .container-Specials,
+    .container-Btonline {
+        text-align: center;
+        /* Center the content horizontally */
+        margin: 0 auto;
+        /* Center both containers horizontally */
+        max-width: 100%;
+        /* Ensure they take up full width on mobile screens */
+    }
+
+    .container-Btonline {
+        margin-top: 20px;
+        /* Add some spacing between the containers on small screens */
+    }
+}
+
+/*------------------------------------------------------------------*/
+/*------------------------------------------------------------------*/
+/* Card.css */
+.Moussaka {
+    width: 200px;
+    height: 150px;
+    border-radius: 20px 20px 0 0;
+}
+
+.Papoutsakia {
+    width: 200px;
+    height: 150px;
+    border-radius: 20px 20px 0 0;
+}
+
+.Souvlaki {
+    width: 200px;
+    height: 150px;
+    border-radius: 20px 20px 0 0;
+}
+
+h4 span {
+    margin-left: 60px;
+    color: red;
+}
+
+p {
+    width: 200px;
+}
+
+.card1-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Center horizontally */
+    text-align: center;
+    /* Center text horizontally */
+
+    border-radius: 20px 20px 0 0;
+}
+
+.text-container {
+    background-color: #EDEFEE
+}
+
+.Delivary {
+    height: 30px;
+}
+
+.card2-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Center horizontally */
+    text-align: center;
+    /* Center text horizontally */
+
+    border-radius: 20px 20px 0 0;
+}
+
+.card3-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Center horizontally */
+    text-align: center;
+    /* Center text horizontally */
+
+    border-radius: 20px 20px 0 0;
+}
+
+.cards-container {
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 900px;
+    /* Adjust the maximum width as needed */
+    margin: 60px auto 0;
+}
+
+@media (max-width: 767px) {
+    .cards-container {
+        flex-direction: column;
+        /* Stack cards vertically */
+        align-items: center;
+        /* Center cards horizontally */
+        margin-bottom: 20px;
+    }
+
+    .card-container {
+        margin-bottom: 20px;
+        /* Add spacing between stacked cards */
+    }
+
+    /* Add space between card containers */
+    .card2-container {
+        margin-top: 20px;
+        /* Add space above card2-container */
+    }
+
+    .card3-container {
+        margin-top: 20px;
+        /* Add space above card3-container */
+    }
+}
+
+@media (min-width: 768px) {
+    .cards-container {
+        margin-bottom: 40px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container-Specials {
+
+        margin-top: 20px;
+    }
+}
