@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './Pages/Home';
-import { BrowserRouter, Routes, Route } from 'react-router-dom'; // Keep the import for Router
+import { HashRouter, Routes, Route } from 'react-router-dom'; // Change to HashRouter
 import About from './Pages/About';
 import Menu from './Pages/Menu';
 import OrderOnline from './Pages/OrderOnline';
@@ -10,7 +10,7 @@ import Login from './Pages/Login';
 function App() {
   return (
     <div>
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <HashRouter>
         <Routes>
           <Route index element={<Home />} />
           <Route path="/home" element={<Home />} />
@@ -20,7 +20,7 @@ function App() {
           <Route path="/Reservations" element={<Reservations />} />
           <Route path="/Login" element={<Login />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
