@@ -10,7 +10,7 @@ import Login from './Pages/Login';
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route index element={<Home />} />
           <Route path="/home" element={<Home />} />
