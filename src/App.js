@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './Pages/Home';
-import { HashRouter, Routes, Route } from 'react-router-dom'; // Change to HashRouter
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import About from './Pages/About';
 import Menu from './Pages/Menu';
 import OrderOnline from './Pages/OrderOnline';
