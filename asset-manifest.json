@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a2704ea.css",
-    "main.js": "/static/js/main.1ab56135.js",
-    "static/media/restauranfood.jpg": "/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
-    "static/media/MarionLuigi.png": "/static/media/MarionLuigi.c0b9f10923a47e95ab83.png",
-    "static/media/Papoutsakia.jpg": "/static/media/Papoutsakia.3944ef72632260bb65c2.jpg",
-    "static/media/Greenlogo.png": "/static/media/Greenlogo.d09eb2af6c5a2225eedf.png",
-    "static/media/Logo .svg": "/static/media/Logo .fd87fc34e15316b670ea115ce700cd15.svg",
-    "static/media/AV4.jpeg": "/static/media/AV4.6e26f9de1d0c8a424c92.jpeg",
-    "static/media/AV2.jpeg": "/static/media/AV2.71a01b3c4bb611d1d700.jpeg",
-    "static/media/Souvlaki.webp": "/static/media/Souvlaki.c2509e31efc8a7688649.webp",
-    "static/media/AV1.webp": "/static/media/AV1.be34890747ee6ec6ea08.webp",
-    "static/media/Moussaka.webp": "/static/media/Moussaka.d0f42a95a475ecce08bd.webp",
-    "static/media/AV3.webp": "/static/media/AV3.ff4f1315b7b01b018970.webp",
-    "index.html": "/index.html",
-    "main.9a2704ea.css.map": "/static/css/main.9a2704ea.css.map",
-    "main.1ab56135.js.map": "/static/js/main.1ab56135.js.map"
+    "main.css": "/littlelemonresto/static/css/main.9a2704ea.css",
+    "main.js": "/littlelemonresto/static/js/main.15244b56.js",
+    "static/media/restauranfood.jpg": "/littlelemonresto/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/MarionLuigi.png": "/littlelemonresto/static/media/MarionLuigi.c0b9f10923a47e95ab83.png",
+    "static/media/Papoutsakia.jpg": "/littlelemonresto/static/media/Papoutsakia.3944ef72632260bb65c2.jpg",
+    "static/media/Greenlogo.png": "/littlelemonresto/static/media/Greenlogo.d09eb2af6c5a2225eedf.png",
+    "static/media/Logo .svg": "/littlelemonresto/static/media/Logo .fd87fc34e15316b670ea115ce700cd15.svg",
+    "static/media/AV4.jpeg": "/littlelemonresto/static/media/AV4.6e26f9de1d0c8a424c92.jpeg",
+    "static/media/AV2.jpeg": "/littlelemonresto/static/media/AV2.71a01b3c4bb611d1d700.jpeg",
+    "static/media/Souvlaki.webp": "/littlelemonresto/static/media/Souvlaki.c2509e31efc8a7688649.webp",
+    "static/media/AV1.webp": "/littlelemonresto/static/media/AV1.be34890747ee6ec6ea08.webp",
+    "static/media/Moussaka.webp": "/littlelemonresto/static/media/Moussaka.d0f42a95a475ecce08bd.webp",
+    "static/media/AV3.webp": "/littlelemonresto/static/media/AV3.ff4f1315b7b01b018970.webp",
+    "index.html": "/littlelemonresto/index.html",
+    "main.9a2704ea.css.map": "/littlelemonresto/static/css/main.9a2704ea.css.map",
+    "main.15244b56.js.map": "/littlelemonresto/static/js/main.15244b56.js.map"
   },
   "entrypoints": [
     "static/css/main.9a2704ea.css",
-    "static/js/main.1ab56135.js"
+    "static/js/main.15244b56.js"
   ]
 }
