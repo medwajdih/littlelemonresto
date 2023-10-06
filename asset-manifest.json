@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/medwajdih/littlelemonresto.git/static/css/main.9a2704ea.css",
-    "main.js": "/medwajdih/littlelemonresto.git/static/js/main.f7c0ae37.js",
-    "static/js/787.c525949b.chunk.js": "/medwajdih/littlelemonresto.git/static/js/787.c525949b.chunk.js",
+    "main.js": "/medwajdih/littlelemonresto.git/static/js/main.b71da1eb.js",
+    "static/js/787.71a00d35.chunk.js": "/medwajdih/littlelemonresto.git/static/js/787.71a00d35.chunk.js",
     "static/media/restauranfood.jpg": "/medwajdih/littlelemonresto.git/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
     "static/media/MarionLuigi.png": "/medwajdih/littlelemonresto.git/static/media/MarionLuigi.c0b9f10923a47e95ab83.png",
     "static/media/Papoutsakia.jpg": "/medwajdih/littlelemonresto.git/static/media/Papoutsakia.3944ef72632260bb65c2.jpg",
@@ -16,11 +16,11 @@
     "static/media/AV3.webp": "/medwajdih/littlelemonresto.git/static/media/AV3.ff4f1315b7b01b018970.webp",
     "index.html": "/medwajdih/littlelemonresto.git/index.html",
     "main.9a2704ea.css.map": "/medwajdih/littlelemonresto.git/static/css/main.9a2704ea.css.map",
-    "main.f7c0ae37.js.map": "/medwajdih/littlelemonresto.git/static/js/main.f7c0ae37.js.map",
-    "787.c525949b.chunk.js.map": "/medwajdih/littlelemonresto.git/static/js/787.c525949b.chunk.js.map"
+    "main.b71da1eb.js.map": "/medwajdih/littlelemonresto.git/static/js/main.b71da1eb.js.map",
+    "787.71a00d35.chunk.js.map": "/medwajdih/littlelemonresto.git/static/js/787.71a00d35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a2704ea.css",
-    "static/js/main.f7c0ae37.js"
+    "static/js/main.b71da1eb.js"
   ]
 }
