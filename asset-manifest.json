@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/%7Blittlelemonresto%7D/static/css/main.9a2704ea.css",
-    "main.js": "/%7Blittlelemonresto%7D/static/js/main.eb6d0e36.js",
-    "static/js/787.c525949b.chunk.js": "/%7Blittlelemonresto%7D/static/js/787.c525949b.chunk.js",
-    "static/media/restauranfood.jpg": "/%7Blittlelemonresto%7D/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
-    "static/media/MarionLuigi.png": "/%7Blittlelemonresto%7D/static/media/MarionLuigi.c0b9f10923a47e95ab83.png",
-    "static/media/Papoutsakia.jpg": "/%7Blittlelemonresto%7D/static/media/Papoutsakia.3944ef72632260bb65c2.jpg",
-    "static/media/Greenlogo.png": "/%7Blittlelemonresto%7D/static/media/Greenlogo.d09eb2af6c5a2225eedf.png",
-    "static/media/Logo .svg": "/%7Blittlelemonresto%7D/static/media/Logo .fd87fc34e15316b670ea115ce700cd15.svg",
-    "static/media/AV4.jpeg": "/%7Blittlelemonresto%7D/static/media/AV4.6e26f9de1d0c8a424c92.jpeg",
-    "static/media/AV2.jpeg": "/%7Blittlelemonresto%7D/static/media/AV2.71a01b3c4bb611d1d700.jpeg",
-    "static/media/Souvlaki.webp": "/%7Blittlelemonresto%7D/static/media/Souvlaki.c2509e31efc8a7688649.webp",
-    "static/media/AV1.webp": "/%7Blittlelemonresto%7D/static/media/AV1.be34890747ee6ec6ea08.webp",
-    "static/media/Moussaka.webp": "/%7Blittlelemonresto%7D/static/media/Moussaka.d0f42a95a475ecce08bd.webp",
-    "static/media/AV3.webp": "/%7Blittlelemonresto%7D/static/media/AV3.ff4f1315b7b01b018970.webp",
-    "index.html": "/%7Blittlelemonresto%7D/index.html",
-    "main.9a2704ea.css.map": "/%7Blittlelemonresto%7D/static/css/main.9a2704ea.css.map",
-    "main.eb6d0e36.js.map": "/%7Blittlelemonresto%7D/static/js/main.eb6d0e36.js.map",
-    "787.c525949b.chunk.js.map": "/%7Blittlelemonresto%7D/static/js/787.c525949b.chunk.js.map"
+    "main.css": "/medwajdih/littlelemonresto.git/static/css/main.9a2704ea.css",
+    "main.js": "/medwajdih/littlelemonresto.git/static/js/main.f7c0ae37.js",
+    "static/js/787.c525949b.chunk.js": "/medwajdih/littlelemonresto.git/static/js/787.c525949b.chunk.js",
+    "static/media/restauranfood.jpg": "/medwajdih/littlelemonresto.git/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/MarionLuigi.png": "/medwajdih/littlelemonresto.git/static/media/MarionLuigi.c0b9f10923a47e95ab83.png",
+    "static/media/Papoutsakia.jpg": "/medwajdih/littlelemonresto.git/static/media/Papoutsakia.3944ef72632260bb65c2.jpg",
+    "static/media/Greenlogo.png": "/medwajdih/littlelemonresto.git/static/media/Greenlogo.d09eb2af6c5a2225eedf.png",
+    "static/media/Logo .svg": "/medwajdih/littlelemonresto.git/static/media/Logo .fd87fc34e15316b670ea115ce700cd15.svg",
+    "static/media/AV4.jpeg": "/medwajdih/littlelemonresto.git/static/media/AV4.6e26f9de1d0c8a424c92.jpeg",
+    "static/media/AV2.jpeg": "/medwajdih/littlelemonresto.git/static/media/AV2.71a01b3c4bb611d1d700.jpeg",
+    "static/media/Souvlaki.webp": "/medwajdih/littlelemonresto.git/static/media/Souvlaki.c2509e31efc8a7688649.webp",
+    "static/media/AV1.webp": "/medwajdih/littlelemonresto.git/static/media/AV1.be34890747ee6ec6ea08.webp",
+    "static/media/Moussaka.webp": "/medwajdih/littlelemonresto.git/static/media/Moussaka.d0f42a95a475ecce08bd.webp",
+    "static/media/AV3.webp": "/medwajdih/littlelemonresto.git/static/media/AV3.ff4f1315b7b01b018970.webp",
+    "index.html": "/medwajdih/littlelemonresto.git/index.html",
+    "main.9a2704ea.css.map": "/medwajdih/littlelemonresto.git/static/css/main.9a2704ea.css.map",
+    "main.f7c0ae37.js.map": "/medwajdih/littlelemonresto.git/static/js/main.f7c0ae37.js.map",
+    "787.c525949b.chunk.js.map": "/medwajdih/littlelemonresto.git/static/js/787.c525949b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a2704ea.css",
-    "static/js/main.eb6d0e36.js"
+    "static/js/main.f7c0ae37.js"
   ]
 }
