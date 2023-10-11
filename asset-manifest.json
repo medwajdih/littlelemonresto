@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/littlelemonresto/static/css/main.9a2704ea.css",
-    "main.js": "/littlelemonresto/static/js/main.15244b56.js",
+    "main.css": "/littlelemonresto/static/css/main.b991f5f0.css",
+    "main.js": "/littlelemonresto/static/js/main.67b8a9f3.js",
     "static/media/restauranfood.jpg": "/littlelemonresto/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
     "static/media/MarionLuigi.png": "/littlelemonresto/static/media/MarionLuigi.c0b9f10923a47e95ab83.png",
     "static/media/Papoutsakia.jpg": "/littlelemonresto/static/media/Papoutsakia.3944ef72632260bb65c2.jpg",
@@ -14,11 +14,11 @@
     "static/media/Moussaka.webp": "/littlelemonresto/static/media/Moussaka.d0f42a95a475ecce08bd.webp",
     "static/media/AV3.webp": "/littlelemonresto/static/media/AV3.ff4f1315b7b01b018970.webp",
     "index.html": "/littlelemonresto/index.html",
-    "main.9a2704ea.css.map": "/littlelemonresto/static/css/main.9a2704ea.css.map",
-    "main.15244b56.js.map": "/littlelemonresto/static/js/main.15244b56.js.map"
+    "main.b991f5f0.css.map": "/littlelemonresto/static/css/main.b991f5f0.css.map",
+    "main.67b8a9f3.js.map": "/littlelemonresto/static/js/main.67b8a9f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a2704ea.css",
-    "static/js/main.15244b56.js"
+    "static/css/main.b991f5f0.css",
+    "static/js/main.67b8a9f3.js"
   ]
 }
