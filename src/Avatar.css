@@ -1,8 +1,13 @@
 .container-Title {
     text-align: center;
     font-size: 22px;
-    color: #495E57
+    color: #495E57;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
+
 
 .Pieter-container {
     width: 200px;
@@ -104,3 +109,4 @@
     }
 
 }
+

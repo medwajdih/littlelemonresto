@@ -9,7 +9,7 @@ function Founders() {
             <div className="container-Founders">
                 <div className="container-Founderstext">
                     <h1>Little Lemon</h1>
-                    <p class="place">Chicago</p>
+                    <p className="place">Chicago</p>
                     <p>Meet the creative minds behind Little Lemon :Mario and Luigi.
                         Together, they've curated a culinary experience that blends
                         to create a dining sensation you won't forget. Explore their passion on every plate

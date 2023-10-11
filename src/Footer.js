@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom'; // Import components from react-router-
 import Greenlogo from './Avatar/Greenlogo.png';
 
 
-
 function Footer() {
+
     return (
 
         <div className="App">
@@ -20,7 +20,8 @@ function Footer() {
                     <h3><Link to="/menu" className="Navig">Menu</Link></h3>
                     <h3><Link to="/reservations" className="Navig">Reservations</Link></h3>
                     <h3><Link to="/orderonline" className="Navig">Order Online</Link></h3>
-                    <h3><Link to="/login" className="Navig">Login</Link></h3>
+                    <h3><Link Link to="/LoginMessage" className="Navig">Login</Link></h3>
+
                 </div>
                 <div className="container-Menu2">
                     <h3><i className="fa fa-map-marker"></i> 678 Pisa Ave, Chicago, IL 60611</h3>

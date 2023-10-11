@@ -2,6 +2,10 @@ import React from 'react';
 import './App.css';
 import './Main.css';
 import restopic from './Avatar/restauranfood.jpg';
+import { Link } from 'react-router-dom';
+
+
+
 function Main() {
     return (
         <div className="App">
@@ -16,7 +20,9 @@ function Main() {
                             Experience the warmth and tradition of Greece through our culinary journey!
                         </p>
                     </div>
-                    <button className="reserve-button">Reserve a Table</button>
+                    <Link to="/Bookatable">
+                        <button className="reserve-button">Reserve a Table</button>
+                    </Link>
                 </div>
                 <div className="container-restopic-wrapper">
                     <img className="container-restopic" src={restopic} alt="restopic" />

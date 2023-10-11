@@ -1,0 +1,103 @@
+.my-form {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+font-size: 15px;
+font-weight: bold;
+
+}
+
+.container-form{
+    height:510px;
+}
+
+.book-button{
+        width: 140px;
+            height: 35px;
+            border-radius: 20px;
+            background-color: #f4ce14;
+            color: black;
+            font-size: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            border:'1px solid black';
+            outline: none;
+            transition: background-color 0.3s ease;
+            margin-top: 10px;
+
+}
+
+.container-form-input {
+    height: 35px !important;
+        border-radius: 20px !important;
+        font-size: 12px !important;
+}
+
+/* Your custom CSS in Bookatable.css */
+
+/* Default styles for larger screens */
+.custom-input {
+    height: 35px;
+    border-radius: 20px;
+    font-size: 12px;
+    /* Add other styles as needed */
+}
+
+
+/* Media query for smaller screens (e.g., mobile) */
+@media screen and (max-width: 768px) {
+
+
+    .my-form {
+        display: flex;
+        flex-direction: column;
+        /* Stack form elements vertically on smaller screens */
+        margin-top: 100px;
+        /* Add top margin to create spacing between header and form */
+    }
+
+    .custom-input {
+        width: 100%;
+        /* Make the form elements 100% width */
+        /* Adjust other styles as needed */
+    }
+
+.form-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 5vh;
+    /* Ensure the header takes up the full viewport height */
+}
+}
+
+.confirmation-message {
+    position: fixed;
+    /* Position it relative to the viewport */
+    top: 50%;
+    /* Center vertically */
+    left: 50%;
+    /* Center horizontally */
+    transform: translate(-50%, -50%);
+    /* Center both vertically and horizontally */
+    background-color: #f4ce14;
+    /* Green background color */
+    color: #495E57 solid;
+    /* White text color */
+    padding: 10px;
+    /* Add some padding for spacing */
+    text-align: center;
+    /* Center align the text */
+    font-size: 24px;
+    /* Adjust the font size */
+    border-radius: 5px;
+    /* Add rounded corners */
+}

@@ -11,9 +11,7 @@ function Avatar() {
         <div className="App">
             <div className="Avatarsize">
                 <nav className="container-Title">
-                    <div className="container-T">
                         <h1>Testimonials</h1>
-                    </div>
                 </nav>
 
                 <div class="Avatar-container">
